@@ -1,0 +1,2 @@
+# .net-exercicis
+Exercícios .net 
